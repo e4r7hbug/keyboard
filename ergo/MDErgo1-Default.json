@@ -18,8 +18,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESC",
-                    "label": "ESC"
+                    "key": "LALT",
+                    "label": "LALT"
                 },
                 "1": {
                     "key": "F11",
@@ -137,8 +137,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LCK2",
-                    "label": "LOCK-2"
+                    "key": "LBRACE",
+                    "label": "["
                 }
             }
         },
@@ -322,8 +322,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "PREV LAYER",
+                    "label": "PREV-\u0192"
                 }
             }
         },
@@ -335,8 +335,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "FUN2",
+                    "label": "\u01922"
+                },
+                "1": {
+                    "key": "FUN3",
+                    "label": "\u01923"
                 }
             }
         },
@@ -348,12 +352,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN2",
-                    "label": "\u01922"
-                },
-                "1": {
-                    "key": "FUN3",
-                    "label": "\u01923"
+                    "key": "MINUS",
+                    "label": "-"
                 }
             }
         },
@@ -538,8 +538,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
@@ -551,8 +551,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -703,8 +703,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "RBRACE",
+                    "label": "]"
                 }
             }
         },
@@ -928,8 +928,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "NEXT LAYER",
+                    "label": "NEXT-\u0192"
                 }
             }
         },
@@ -941,8 +941,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "FUN1",
+                    "label": "\u01921"
+                },
+                "2": {
+                    "key": "FUN4",
+                    "label": "\u01924"
                 }
             }
         },
@@ -954,12 +958,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
-                },
-                "2": {
-                    "key": "FUN4",
-                    "label": "\u01924"
+                    "key": "EQUALS",
+                    "label": "="
                 }
             }
         },
