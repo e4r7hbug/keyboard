@@ -18,12 +18,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "LCK2",
+                    "label": "LOCK-2"
                 },
                 "1": {
-                    "key": "F11",
-                    "label": "F11"
+                    "key": "F6",
+                    "label": "F6"
                 }
             }
         },
@@ -123,7 +123,7 @@
                     "key": "BACKTICK",
                     "label": "`"
                 },
-                "2": {
+                "3": {
                     "key": "#:flashMode()",
                     "label": "FLASH"
                 }
@@ -139,6 +139,10 @@
                 "0": {
                     "key": "LBRACE",
                     "label": "["
+                },
+                "1": {
+                    "key": "F12",
+                    "label": "F12"
                 }
             }
         },
@@ -152,6 +156,10 @@
                 "0": {
                     "key": "T",
                     "label": "T"
+                },
+                "1": {
+                    "key": "F11",
+                    "label": "F11"
                 }
             }
         },
@@ -165,6 +173,10 @@
                 "0": {
                     "key": "R",
                     "label": "R"
+                },
+                "1": {
+                    "key": "F10",
+                    "label": "F10"
                 }
             }
         },
@@ -178,6 +190,10 @@
                 "0": {
                     "key": "E",
                     "label": "E"
+                },
+                "1": {
+                    "key": "F9",
+                    "label": "F9"
                 }
             }
         },
@@ -193,8 +209,8 @@
                     "label": "W"
                 },
                 "1": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "F8",
+                    "label": "F8"
                 }
             }
         },
@@ -208,6 +224,10 @@
                 "0": {
                     "key": "Q",
                     "label": "Q"
+                },
+                "1": {
+                    "key": "F7",
+                    "label": "F7"
                 }
             }
         },
@@ -525,8 +545,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
@@ -538,8 +558,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -551,8 +571,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
                 }
             }
         },
@@ -566,10 +586,6 @@
                 "0": {
                     "key": "LCK1",
                     "label": "LOCK-1"
-                },
-                "1": {
-                    "key": "F12",
-                    "label": "F12"
                 }
             }
         },
@@ -583,10 +599,6 @@
                 "0": {
                     "key": "6",
                     "label": "6"
-                },
-                "1": {
-                    "key": "F6",
-                    "label": "F6"
                 }
             }
         },
@@ -600,10 +612,6 @@
                 "0": {
                     "key": "7",
                     "label": "7"
-                },
-                "1": {
-                    "key": "F7",
-                    "label": "F7"
                 },
                 "4": {
                     "key": "NUMLOCK",
@@ -622,10 +630,6 @@
                     "key": "8",
                     "label": "8"
                 },
-                "1": {
-                    "key": "F8",
-                    "label": "F8"
-                },
                 "4": {
                     "key": "P\/",
                     "label": "P\/"
@@ -642,10 +646,6 @@
                 "0": {
                     "key": "9",
                     "label": "9"
-                },
-                "1": {
-                    "key": "F9",
-                    "label": "F9"
                 },
                 "2": {
                     "key": "MINUS",
@@ -668,10 +668,6 @@
                     "key": "0",
                     "label": "0"
                 },
-                "1": {
-                    "key": "F10",
-                    "label": "F10"
-                },
                 "2": {
                     "key": "EQUALS",
                     "label": "="
@@ -692,6 +688,10 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
+                },
+                "4": {
+                    "key": "#:flashMode()",
+                    "label": "FLASH"
                 }
             }
         },
