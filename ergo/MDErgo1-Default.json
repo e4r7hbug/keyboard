@@ -332,8 +332,12 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "FUN2",
+                    "label": "\u01922"
+                },
+                "1": {
+                    "key": "FUN3",
+                    "label": "\u01923"
                 }
             }
         },
@@ -581,7 +585,7 @@
                     "key": "F7",
                     "label": "F7"
                 },
-                "2": {
+                "4": {
                     "key": "NUMLOCK",
                     "label": "NMLK"
                 }
@@ -602,7 +606,7 @@
                     "key": "F8",
                     "label": "F8"
                 },
-                "2": {
+                "4": {
                     "key": "P\/",
                     "label": "P\/"
                 }
@@ -624,6 +628,10 @@
                     "label": "F9"
                 },
                 "2": {
+                    "key": "MINUS",
+                    "label": "-"
+                },
+                "4": {
                     "key": "P*",
                     "label": "P*"
                 }
@@ -645,6 +653,10 @@
                     "label": "F10"
                 },
                 "2": {
+                    "key": "EQUALS",
+                    "label": "="
+                },
+                "4": {
                     "key": "P-",
                     "label": "P-"
                 }
@@ -700,7 +712,7 @@
                     "key": "U",
                     "label": "U"
                 },
-                "2": {
+                "4": {
                     "key": "P7",
                     "label": "P7"
                 }
@@ -717,7 +729,7 @@
                     "key": "I",
                     "label": "I"
                 },
-                "2": {
+                "4": {
                     "key": "P8",
                     "label": "P8"
                 }
@@ -735,6 +747,10 @@
                     "label": "O"
                 },
                 "2": {
+                    "key": "LBRACE",
+                    "label": "["
+                },
+                "4": {
                     "key": "P9",
                     "label": "P9"
                 }
@@ -752,6 +768,10 @@
                     "label": "P"
                 },
                 "2": {
+                    "key": "RBRACE",
+                    "label": "]"
+                },
+                "4": {
                     "key": "P+",
                     "label": "P+"
                 }
@@ -794,7 +814,7 @@
                     "key": "J",
                     "label": "J"
                 },
-                "2": {
+                "4": {
                     "key": "P4",
                     "label": "P4"
                 }
@@ -811,7 +831,7 @@
                     "key": "K",
                     "label": "K"
                 },
-                "2": {
+                "4": {
                     "key": "P5",
                     "label": "P5"
                 }
@@ -828,7 +848,7 @@
                     "key": "L",
                     "label": "L"
                 },
-                "2": {
+                "4": {
                     "key": "P6",
                     "label": "P6"
                 }
@@ -845,7 +865,7 @@
                     "key": "SEMICOLON",
                     "label": ";"
                 },
-                "2": {
+                "4": {
                     "key": "P+",
                     "label": "P+"
                 }
@@ -900,6 +920,10 @@
                 "0": {
                     "key": "FUN1",
                     "label": "\u01921"
+                },
+                "2": {
+                    "key": "FUN4",
+                    "label": "\u01924"
                 }
             }
         },
@@ -927,7 +951,7 @@
                     "key": "M",
                     "label": "M"
                 },
-                "2": {
+                "4": {
                     "key": "P1",
                     "label": "P1"
                 }
@@ -944,7 +968,7 @@
                     "key": "COMMA",
                     "label": ","
                 },
-                "2": {
+                "4": {
                     "key": "P2",
                     "label": "P2"
                 }
@@ -961,7 +985,7 @@
                     "key": "PERIOD",
                     "label": "."
                 },
-                "2": {
+                "4": {
                     "key": "P3",
                     "label": "P3"
                 }
@@ -978,7 +1002,7 @@
                     "key": "SLASH",
                     "label": "\/"
                 },
-                "2": {
+                "4": {
                     "key": "PENTER",
                     "label": "P\u21b5"
                 }
@@ -1047,7 +1071,7 @@
                     "key": "SPACE",
                     "label": "[&nbsp;]"
                 },
-                "2": {
+                "4": {
                     "key": "P0",
                     "label": "P0"
                 }
@@ -1063,6 +1087,10 @@
                 "0": {
                     "key": "LEFT",
                     "label": "\u2190"
+                },
+                "2": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -1076,6 +1104,10 @@
                 "0": {
                     "key": "DOWN",
                     "label": "\u2193"
+                },
+                "2": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
@@ -1091,6 +1123,10 @@
                     "label": "\u2191"
                 },
                 "2": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
+                },
+                "4": {
                     "key": "P.",
                     "label": "P."
                 }
@@ -1108,6 +1144,10 @@
                     "label": "\u2192"
                 },
                 "2": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
+                },
+                "4": {
                     "key": "PENTER",
                     "label": "P\u21b5"
                 }
@@ -1123,6 +1163,10 @@
                 "0": {
                     "key": "RGUI",
                     "label": "RGUI"
+                },
+                "2": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         }
