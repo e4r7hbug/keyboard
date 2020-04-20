@@ -18,7 +18,7 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "LCK2",
+          "key": "#:LayerLock[2]",
           "label": "LOCK-2"
         },
         "1": {
@@ -120,7 +120,7 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "BACKTICK",
+          "key": "`",
           "label": "`"
         },
         "3": {
@@ -137,7 +137,7 @@
       "h": 6,
       "layers": {
         "0": {
-          "key": "LBRACE",
+          "key": "[",
           "label": "["
         },
         "1": {
@@ -329,7 +329,7 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "ESCAPE",
+          "key": "ESC",
           "label": "ESC"
         }
       }
@@ -355,11 +355,11 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "FUN2",
+          "key": "#:Layer[2]",
           "label": "ƒ2"
         },
         "1": {
-          "key": "FUN3",
+          "key": "#:Layer[3]",
           "label": "ƒ3"
         }
       }
@@ -372,7 +372,7 @@
       "h": 6,
       "layers": {
         "0": {
-          "key": "MINUS",
+          "key": "-",
           "label": "-"
         }
       }
@@ -492,6 +492,10 @@
           "key": "BACKSPACE",
           "label": "BKSP"
         },
+        "1": {
+          "key": "DELETE",
+          "label": "DEL"
+        },
         "2": {
           "key": "DELETE",
           "label": "DEL"
@@ -507,7 +511,7 @@
       "layers": {
         "0": {
           "key": "SPACE",
-          "label": "[&nbsp;]"
+          "label": "[ ]"
         }
       }
     },
@@ -519,8 +523,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "LALT",
-          "label": "LALT"
+          "key": "LGUI",
+          "label": "LGUI"
         }
       }
     },
@@ -532,8 +536,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "LEFT",
-          "label": "←"
+          "key": "LALT",
+          "label": "LALT"
         }
       }
     },
@@ -545,8 +549,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "LGUI",
-          "label": "LGUI"
+          "key": "LCTRL",
+          "label": "LCTRL"
         }
       }
     },
@@ -584,7 +588,7 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "LCK1",
+          "key": "#:LayerLock[1]",
           "label": "LOCK-1"
         }
       }
@@ -648,7 +652,7 @@
           "label": "9"
         },
         "2": {
-          "key": "MINUS",
+          "key": "-",
           "label": "-"
         },
         "4": {
@@ -669,7 +673,7 @@
           "label": "0"
         },
         "2": {
-          "key": "EQUALS",
+          "key": "=",
           "label": "="
         },
         "4": {
@@ -703,7 +707,7 @@
       "h": 6,
       "layers": {
         "0": {
-          "key": "RBRACE",
+          "key": "]",
           "label": "]"
         }
       }
@@ -732,6 +736,10 @@
           "key": "U",
           "label": "U"
         },
+        "1": {
+          "key": "#:mouseOut( 1, 0, 0 )",
+          "label": "Btn 1"
+        },
         "4": {
           "key": "P7",
           "label": "P7"
@@ -748,6 +756,10 @@
         "0": {
           "key": "I",
           "label": "I"
+        },
+        "1": {
+          "key": "#:mouseOut( 2, 0, 0 )",
+          "label": "Btn 2"
         },
         "4": {
           "key": "P8",
@@ -766,8 +778,12 @@
           "key": "O",
           "label": "O"
         },
+        "1": {
+          "key": "#:mouseOut( 3, 0, 0 )",
+          "label": "Btn 3"
+        },
         "2": {
-          "key": "LBRACE",
+          "key": "[",
           "label": "["
         },
         "4": {
@@ -788,11 +804,11 @@
           "label": "P"
         },
         "2": {
-          "key": "RBRACE",
+          "key": "]",
           "label": "]"
         },
         "4": {
-          "key": "P+",
+          "key": "KEYPAD PLUS",
           "label": "P+"
         }
       }
@@ -805,7 +821,7 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "BACKSLASH",
+          "key": "\\",
           "label": "\\"
         }
       }
@@ -820,6 +836,10 @@
         "0": {
           "key": "H",
           "label": "H"
+        },
+        "1": {
+          "key": "#:mouseOut( 0, -1, 0 )",
+          "label": "← x1"
         },
         "2": {
           "key": "LEFT",
@@ -837,6 +857,10 @@
         "0": {
           "key": "J",
           "label": "J"
+        },
+        "1": {
+          "key": "#:mouseOut( 0, 0, -1 )",
+          "label": "↓ x1"
         },
         "2": {
           "key": "DOWN",
@@ -859,6 +883,10 @@
           "key": "K",
           "label": "K"
         },
+        "1": {
+          "key": "#:mouseOut( 0, 0, 1 )",
+          "label": "↑ x1"
+        },
         "2": {
           "key": "UP",
           "label": "↑"
@@ -880,6 +908,10 @@
           "key": "L",
           "label": "L"
         },
+        "1": {
+          "key": "#:mouseOut( 0, 1, 0 )",
+          "label": "→ x1"
+        },
         "2": {
           "key": "RIGHT",
           "label": "→"
@@ -898,11 +930,11 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "SEMICOLON",
+          "key": ";",
           "label": ";"
         },
         "4": {
-          "key": "P+",
+          "key": "KEYPAD PLUS",
           "label": "P+"
         }
       }
@@ -915,7 +947,7 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "QUOTE",
+          "key": "'",
           "label": "'"
         }
       }
@@ -941,11 +973,11 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "FUN1",
+          "key": "#:Layer[1]",
           "label": "ƒ1"
         },
         "2": {
-          "key": "FUN4",
+          "key": "#:Layer[4]",
           "label": "ƒ4"
         }
       }
@@ -958,7 +990,7 @@
       "h": 6,
       "layers": {
         "0": {
-          "key": "EQUALS",
+          "key": "=",
           "label": "="
         }
       }
@@ -1001,7 +1033,7 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "COMMA",
+          "key": ",",
           "label": ","
         },
         "4": {
@@ -1018,7 +1050,7 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "PERIOD",
+          "key": ".",
           "label": "."
         },
         "4": {
@@ -1035,7 +1067,7 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "SLASH",
+          "key": "/",
           "label": "/"
         },
         "4": {
@@ -1105,7 +1137,7 @@
       "layers": {
         "0": {
           "key": "SPACE",
-          "label": "[&nbsp;]"
+          "label": "[ ]"
         },
         "4": {
           "key": "P0",
@@ -1125,7 +1157,7 @@
           "label": "RGUI"
         },
         "2": {
-          "key": "CONS:PAUSEPLAY",
+          "key": "CONS:PAUSE PLAY",
           "label": "PL/PS"
         }
       }
@@ -1142,7 +1174,7 @@
           "label": "←"
         },
         "2": {
-          "key": "CONS:SCANPREVIOUSTRACK",
+          "key": "CONS:SCAN PREVIOUS TRACK",
           "label": "PREV"
         }
       }
@@ -1159,7 +1191,7 @@
           "label": "↓"
         },
         "2": {
-          "key": "CONS:VOLUMEDOWN",
+          "key": "#:U\"Volume Down\" + CONS\"Volume Down\"",
           "label": "VOL-"
         },
         "4": {
@@ -1180,7 +1212,7 @@
           "label": "↑"
         },
         "2": {
-          "key": "CONS:VOLUMEUP",
+          "key": "#:U\"Volume Up\" + CONS\"Volume Up\"",
           "label": "VOL+"
         },
         "4": {
@@ -1201,10 +1233,16 @@
           "label": "→"
         },
         "2": {
-          "key": "CONS:SCANNEXTTRACK",
+          "key": "CONS:SCAN NEXT TRACK",
           "label": "NEXT"
         }
       }
     }
-  ]
+  ],
+  "defines": [],
+  "leds": [],
+  "custom": {},
+  "animations": {},
+  "macros": {},
+  "canned": {}
 }
